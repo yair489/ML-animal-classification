@@ -15,8 +15,7 @@ Through rigorous data preparation, model development, and evaluation, we aim to 
 ### Yair Turgeman
 ### Elad Laster
 
-![2024-04-12 (1)](https://github.com/EladLaster/Animal_Classification/assets/118683420/ec5f73ed-0eb3-44cf-9eb3-3c2e076bc09e)
-
+![idansegev _Design_a_visually_captivating_digital_illustration_t_669a0ced-33c1-4f32-88c8-e7f32eaaa152](https://github.com/yair489/ML-animal-classification/assets/118690651/9cc49468-6130-4c39-8879-775b62d40491)
 
 ## Dataset
 The dataset comprises 15,000 images of mammals, divided into two main folders: train and test.
